@@ -1,5 +1,0 @@
-C:\Users\kmusaied\Documents\GitHub\GregHijCalendar\GregHijCalendar\bin\GregHijCalendar.dll
-C:\Users\kmusaied\Documents\GitHub\GregHijCalendar\GregHijCalendar\bin\GregHijCalendar.pdb
-C:\Users\kmusaied\Documents\GitHub\GregHijCalendar\GregHijCalendar\obj\Debug\GregHijCalendar.csprojResolveAssemblyReference.cache
-C:\Users\kmusaied\Documents\GitHub\GregHijCalendar\GregHijCalendar\obj\Debug\GregHijCalendar.dll
-C:\Users\kmusaied\Documents\GitHub\GregHijCalendar\GregHijCalendar\obj\Debug\GregHijCalendar.pdb
