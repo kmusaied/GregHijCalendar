@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>GregHijCalendar</id>
+    <version>1.0.0</version>
+    <authors>kmusaied</authors>
+    <owners>KhaledLabs</owners>
+    <projectUrl>https://github.com/kmusaied/GregHijCalendar</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>ASP.NET Hijri/Gregorian Date Picker Cusom Control</description>
+    <releaseNotes>First beta version</releaseNotes>
+    <copyright>Copyright 2014</copyright>
+    <tags>ASP.NET Controls Calendar Hijri DatePick </tags>
+    <dependencies>
+    </dependencies>
+  </metadata>
+</package>
